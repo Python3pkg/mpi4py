@@ -1,7 +1,7 @@
 .PHONY: default
 default: build
 
-PYTHON = python
+PYTHON = python3
 
 # ----
 
